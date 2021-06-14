@@ -2,7 +2,6 @@
 
 body {
   margin: 50px 0 0 0;
-  background-color: #04100c;
   color: #04100c;
   line-height: 1.5;
   font-family: "Roboto", sans-serif;
@@ -30,7 +29,7 @@ html {
 /* ------------------------------- HEADER------------------------------------ */
 
 .c1 {
-  background-color: #072961;
+  background-color: #4682B4;
   margin-top: -25px;
   color: #f8f9fa;
 }
