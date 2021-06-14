@@ -3,7 +3,7 @@
 body {
   margin: 50px 0 0 0;
   background-color: #04100c;
-  font-size: 25px;
+  font-size: 20px;
   color: #04100c;
   line-height: 1.5;
   font-family: "Roboto", sans-serif;
@@ -51,7 +51,7 @@ header {
 
 .c1 h2 {
   font-family: "Amaranth", sans-serif;
-  font-size: 35px;
+  font-size: 40px;
 }
 
 .c1 p {
@@ -64,19 +64,19 @@ header {
 
 h1 {
   font-family: "Sigmar One";
-  font-size: 50px;
+  font-size: 60px;
   padding-top: 20px;
   margin: 0;
 }
 
 h2 {
   font-family: "Permanent Marker";
-  font-size: 40px;
+  font-size: 50px;
 }
 
 h3 {
   margin: 0;
-  font-size: 18px;
+  font-size: 20px;
 }
 
 h2,
