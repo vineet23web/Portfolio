@@ -1,0 +1,223 @@
+/* --------------------------------GLOBAL-----------------------------------*/
+
+body {
+  margin: 50px 0 0 0;
+  background-color: #04100c;
+  color: #04100c;
+  font-size: 12px;
+  line-height: 1.5;
+  font-family: "Roboto", sans-serif;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+.content-wrap {
+  max-width: 800px;
+  width: 85%;
+  margin: 0 auto;
+  padding: 35px 0 60px 0;
+}
+
+/* ------------------------------------------------------------------------- */
+
+/* ------------------------------- HEADER------------------------------------ */
+
+.c1 {
+  background-color: #072961;
+  margin-top: -25px;
+  color: #f8f9fa;
+}
+
+.vd_logo {
+  position: absolute;
+  left: 50%;
+  top: 0;
+  margin-left: -20px;
+  margin-top: -1px;
+}
+
+header {
+  text-align: center;
+  margin: 80px 0 0 0;
+}
+
+.c1 h2 {
+  font-family: "Amaranth", sans-serif;
+  font-size: 35px;
+}
+
+.c1 p {
+  padding-top: 15px;
+  margin-left: 70px;
+  margin-right: 70px;
+}
+
+/* ---------------------------------------------------------------------------- */
+
+/* ---------------------------------HEADING------------------------------------ */
+
+h1 {
+  font-family: "Sigmar One";
+  font-size: 50px;
+  padding-top: 20px;
+  margin: 0;
+}
+
+h2 {
+  font-family: "Permanent Marker";
+  font-size: 40px;
+}
+
+h3 {
+  margin: 0;
+  font-size: 18px;
+}
+
+h2,
+p,
+ul {
+  margin: 0;
+}
+
+/* ------------------------------------------------------------------------------ */
+
+/* ------------------------------------SKILLS------------------------------------ */
+
+.c2 {
+  background-color: #b7e4c7;
+}
+
+.skill1 img {
+  margin-top: 10px;
+}
+
+.skill2 img {
+  margin-top: 20px;
+}
+
+.skill3 img {
+  margin-top: 30px;
+}
+
+.skill1 {
+  font-size: 26px;
+  margin: 50px 0 0 10px;
+  background-color: #ffe75c;
+  border-radius: 10px;
+  padding: 4px;
+}
+
+.skill2 {
+  font-size: 26px;
+  margin: 100px 0 0 370px;
+  background-color: #ffe75c;
+  padding: 4px;
+  border-radius: 10px;
+}
+
+.skill3 {
+  font-size: 26px;
+  margin: 50px 0 0 700px;
+  background-color: #ffe75c;
+  padding: 4px;
+  border-radius: 10px;
+}
+
+.other_skills ul {
+  margin-top: 15px;
+  font-size: 15px;
+  list-style-type: none;
+  line-height: 35px;
+  border-radius: 10px;
+  background-color: #ffe75c;
+}
+.c2 > .content-wrap {
+  padding-top: 0;
+  padding-bottom: 40px;
+}
+
+.c2 h2 {
+  padding-top: 30px;
+}
+
+/* ------------------------------------------------------------------------------- */
+
+/* ------------------------------------CERTIFICATE-------------------------------------- */
+
+.c3 {
+  background-image: url(img/brandi-redd-aJTiW00qqtI-unsplash.jpg);
+  background-size: cover;
+  background-position: bottom;
+  opacity: 90%;
+}
+
+.c3 img {
+  margin: 30px 0 0 200px;
+}
+
+.certi img {
+  padding: 50px 0 50px 0;
+  border-style: groove;
+  transition: transform 0.2s;
+}
+
+/* -------------------------------------------------------------------------------- */
+
+/* ------------------------------------EDUCATION----------------------------------- */
+
+.c4 {
+  height: 100%;
+  background-image: url(img/kelli-tungay-2LJ4rqK2qfU-unsplash.jpg);
+  background-size: cover;
+  background-position: center;
+  color: #3b2c35;
+}
+
+.c4 h3 {
+  margin: 0;
+}
+
+.c4 > .content-wrap {
+  line-height: 1.8;
+  padding-top: 100px;
+  margin-left: 400px;
+}
+
+/* -------------------------------------------------------------------------------- */
+
+/* --------------------------------------FOOTER------------------------------------ */
+
+.c5 {
+  background-color: #023047;
+}
+
+footer {
+  color: #fffffc;
+  text-align: center;
+}
+
+#contact-list ul {
+  margin-top: 30px;
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+#contact-list a {
+  margin: 50px 50px 0 50px;
+}
+
+.c5 ul li:nth-child(1) {
+  margin-right: 10px;
+}
+
+/* -------------------------------------------------------------------------------- */
